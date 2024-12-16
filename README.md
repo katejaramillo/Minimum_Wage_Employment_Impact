@@ -1,1 +1,2 @@
 # Minimum_Wage_Employment_Impact
+Welcome to my repository! This project uses data from Card and Kreuger's 1993 study, which tracked the impact of employment in New Jersey's fast-food industry after minimum wage increased, compared to Pennsylvania's industry which did not experience an increase. I estimated a DiD model with state fixed effects, and later restaurant fixed effects, and evaluated the statistical significance of the average treatment effect of treated (ATT) with a 95% confidence interval.
